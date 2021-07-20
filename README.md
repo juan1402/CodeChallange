@@ -15,4 +15,4 @@ To search weather information for a city
 4. Retrofit for network calls
 5. Room
 6. Architecture 
-7.coroutines
+7. coroutines
