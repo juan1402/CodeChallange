@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="weather_hint">Enter a city name</string>
+    <string name="search">Search !</string>
+    <string name="celsius">Celsius</string>
+    <string name="max_temp_celsius">Max Temperature: %s Celsius</string>
+    <string name="max_temp_fahrenheit">Max Temperature: %s Fahrenheit</string>
+    <string name="min_temp_celsius">Min Temperature: %s Celsius</string>
+    <string name="min_temp_fahrenheit">Min Temperature: %s Fahrenheit</string>
+    <string name="mainly_temp">Mainly: %s</string>
+</resources>
